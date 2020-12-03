@@ -10,3 +10,6 @@ Disables Cortana
 Deletes various schedules tasks that rebloat the system
 Removes Other Bloatware (Candy Crush, etc.)
 Fixes problems that other scripts causes (lock screen and personalization options restricted)
+
+# After complete the process
+Just restart your system and enjoy the lightweight Win-10
